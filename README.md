@@ -1,4 +1,4 @@
-# VetHand.apı
+# VetHand.API
 
 # Halit Enes Kalaycı 
 ## 2022 Eğitim Öğretim Dönemi
